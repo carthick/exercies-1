@@ -1,3 +1,3 @@
-# exercies-1
+# exercise-1
 * npm install
 * npm start
